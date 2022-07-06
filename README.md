@@ -20,13 +20,13 @@ corrigir meus códigos se achar necessário.
 <br>
 
 
-*<p>It is with great pleasure that I make it available for everyone's appreciation,
+*<p>It is with great pleasure that I make it available for everyone's appreciation,<br>
 these project challenges that I did. </p>*
 
-*<p>I want to share my evolution and how I am constantly
+*<p>I want to share my evolution and how I am constantly <br>
 improvement, any tip is always welcome. </p>*
 
-*<p>- Feel free to enjoy, comment, give tips, and even 
+*<p>- Feel free to enjoy, comment, give tips, and even <br>
 correct my codes if necessary. </p>*
 
 <br>
