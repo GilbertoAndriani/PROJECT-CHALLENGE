@@ -18,7 +18,8 @@ aperfeiçoamento, toda dica sempre será bem vinda.
 corrigir meus códigos se achar necessário.
 
 <br>
-
+<br>
+  
 
 *<p>It is with great pleasure that I make it available for everyone's appreciation,<br>
 these project challenges that I did. </p>*
@@ -32,6 +33,5 @@ correct my codes if necessary. </p>*
 <br>
 
 ##### Gilberto Andriani
-
 *Futuro Deselvolvedor Full Stack*
 *Future Full Stack Developer*
