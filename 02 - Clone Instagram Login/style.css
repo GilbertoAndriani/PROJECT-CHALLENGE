@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     text-decoration: none;
-    font-family: sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
     font-style: normal;
     font-size: 14px;
     appearance: none;
@@ -90,8 +90,8 @@ body {
 
 
 .instagram-login {
-    padding: 8px;
-    height: 30px;
+    padding: 5px 9px;
+    text-align: center;
     border-radius: 4px;
     margin-top: 1rem;
     color: rgb(255, 255, 255);
@@ -101,14 +101,17 @@ body {
 .instagram-logout {
     margin-top: 0.5rem;
     margin-bottom: 0.8rem;
+    line-height: 18px;
     font-size: 13px;
+    font-weight: 600;
     color: #0095f6;
 }
 
 .not-account {
-    font-weight: 100;
-    line-height: 23px;
-    color: rgb(160, 160, 160);
+    font-weight: 400;
+    line-height: 18px;
+    padding: 3px 0 3px 0;
+    color: #8e8e8e;
 
 }
 
@@ -129,7 +132,7 @@ body {
 }
 
 .get-app {
-    font-weight: 100;
+    font-weight: 400;
     line-height: 18px;
     margin: 10px 20px 10px 20px;
 }
@@ -173,12 +176,12 @@ body {
 
 .item-rod {
     margin: 0 8px 4px 8px;
-    font-size: 10px;
+    font-size: 11px;
     text-align: justify;
-    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
     transform: scaleY(1.1);
-    letter-spacing: 0.7px;
-    font-family: arial;
+    letter-spacing: 0.5px;
     color: #8e8e8e;
 }
 
